@@ -1,0 +1,1 @@
+﻿ping www.google.com -n 10
